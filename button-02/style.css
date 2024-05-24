@@ -2,7 +2,6 @@
   /* colors  */
   --color-black: hsl(0, 0%, 10%);
   --color-white: hsl(0, 0%, 95%);
-
   --fs-medium: clamp(1.5rem, 0.6966rem + 1.2945vw, 3rem);
   --border-radius: 0.75rem;
 }
