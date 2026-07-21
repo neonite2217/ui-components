@@ -16,7 +16,7 @@ We can add this login form at start of any website as it has a great look.
 - Download or clone the repository
 
 ```
-git clone https://github.com/neonite2217/ui-components.git
+git clone https://github.com/neonite-rc/ui-components.git
 ```
 
 - Go to the directory

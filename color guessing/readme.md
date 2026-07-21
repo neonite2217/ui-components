@@ -17,7 +17,7 @@ It is a great game to play as it is with rgb we can just see the rgb and guess t
 - Download or clone the repository
 
 ```
-git clone https://github.com/neonite2217/ui-components.git
+git clone https://github.com/neonite-rc/ui-components.git
 ```
 
 - Go to the directory
